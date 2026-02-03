@@ -1,0 +1,910 @@
+fileFormatVersion: 2
+guid: 9ed51543640cb3b4a8beb4398eb10596
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 988294381883756307
+    second: 1_effect_rain_020_0
+  - first:
+      213: -2805789709496745653
+    second: 1_effect_rain_020_1
+  - first:
+      213: 8602435990817649677
+    second: 1_effect_rain_020_2
+  - first:
+      213: -4616668894488578814
+    second: 1_effect_rain_020_3
+  - first:
+      213: 7875080153772731026
+    second: 1_effect_rain_020_4
+  - first:
+      213: 44555474571368426
+    second: 1_effect_rain_020_5
+  - first:
+      213: -4255623640321614783
+    second: 1_effect_rain_020_6
+  - first:
+      213: -3026401484838792176
+    second: 1_effect_rain_020_7
+  - first:
+      213: -6549211899299679549
+    second: 1_effect_rain_020_8
+  - first:
+      213: 9165821858184240387
+    second: 1_effect_rain_020_9
+  - first:
+      213: 4398280398465142209
+    second: 1_effect_rain_020_10
+  - first:
+      213: -7642123451182399186
+    second: 1_effect_rain_020_11
+  - first:
+      213: 7765300198741815096
+    second: 1_effect_rain_020_12
+  - first:
+      213: -9011008836166819803
+    second: 1_effect_rain_020_13
+  - first:
+      213: -3008261381137419132
+    second: 1_effect_rain_020_14
+  - first:
+      213: -2875969126948095833
+    second: 1_effect_rain_020_15
+  - first:
+      213: 3932437557213188540
+    second: 1_effect_rain_020_16
+  - first:
+      213: -6992105054876126018
+    second: 1_effect_rain_020_17
+  - first:
+      213: 4301420927117149936
+    second: 1_effect_rain_020_18
+  - first:
+      213: 5634789741436555835
+    second: 1_effect_rain_020_19
+  - first:
+      213: -146641885919502792
+    second: 1_effect_rain_020_20
+  - first:
+      213: 3444684651781060356
+    second: 1_effect_rain_020_21
+  - first:
+      213: -7435370038385576405
+    second: 1_effect_rain_020_22
+  - first:
+      213: -5393969626270861151
+    second: 1_effect_rain_020_23
+  - first:
+      213: 2853378341821979450
+    second: 1_effect_rain_020_24
+  - first:
+      213: -3317871131326182193
+    second: 1_effect_rain_020_25
+  - first:
+      213: 3528195564860848969
+    second: 1_effect_rain_020_26
+  - first:
+      213: 2989190898249471938
+    second: 1_effect_rain_020_27
+  - first:
+      213: -9044346666390232580
+    second: 1_effect_rain_020_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1_effect_rain_020_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 831
+        width: 554
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f02bd018027bd00800000000000000
+      internalID: 988294381883756307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_rain_020_1
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 693
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41000bff15df09d0800000000000000
+      internalID: -2805789709496745653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_rain_020_2
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 718
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04b8bbb4fdf16770800000000000000
+      internalID: 8602435990817649677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_rain_020_3
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 644
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205b962c91c4eefb0800000000000000
+      internalID: -4616668894488578814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_rain_020_4
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 584
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a2a570da7e94d60800000000000000
+      internalID: 7875080153772731026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_rain_020_5
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 609
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae710a2d7fa4e9000800000000000000
+      internalID: 44555474571368426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_rain_020_6
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 645
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c10eca8dcf0f4c0800000000000000
+      internalID: -4255623640321614783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_rain_020_7
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 539
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014187452ef0006d0800000000000000
+      internalID: -3026401484838792176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_rain_020_8
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 576
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c23b7f0a768c15a0800000000000000
+      internalID: -6549211899299679549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_rain_020_9
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 512
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d159bda6a833f70800000000000000
+      internalID: 9165821858184240387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_rain_020_10
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 550
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd041528b4d90d30800000000000000
+      internalID: 4398280398465142209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_rain_020_11
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 526
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21479af539b1f590800000000000000
+      internalID: -7642123451182399186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_rain_020_12
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 506
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83fa6407363e3cb60800000000000000
+      internalID: 7765300198741815096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_rain_020_13
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 478
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520ee54b43772f280800000000000000
+      internalID: -9011008836166819803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_rain_020_14
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 481
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48437c956328046d0800000000000000
+      internalID: -3008261381137419132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_rain_020_15
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 447
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8b44b01518618d0800000000000000
+      internalID: -2875969126948095833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_rain_020_16
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 439
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1d8139f13d29630800000000000000
+      internalID: 3932437557213188540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_rain_020_17
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 404
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb435e39f7d07fe90800000000000000
+      internalID: -6992105054876126018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_rain_020_18
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 404
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6cf361b87b1bb30800000000000000
+      internalID: 4301420927117149936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_rain_020_19
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 408
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32575a5a6bc23e40800000000000000
+      internalID: 5634789741436555835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_rain_020_20
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 393
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e13905bf507fdf0800000000000000
+      internalID: -146641885919502792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_rain_020_21
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 422
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40776a8a07afdcf20800000000000000
+      internalID: 3444684651781060356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_rain_020_22
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 434
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26f178285240d890800000000000000
+      internalID: -7435370038385576405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_rain_020_23
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 270
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8f0e01435c425b0800000000000000
+      internalID: -5393969626270861151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_rain_020_24
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 270
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b971aeb7c399720800000000000000
+      internalID: 2853378341821979450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_rain_020_25
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 270
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc87cee8cd84f1d0800000000000000
+      internalID: -3317871131326182193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_rain_020_26
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 273
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94bb3ad4c2ba6f030800000000000000
+      internalID: 3528195564860848969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_rain_020_27
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 276
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c79df7d84dbb7920800000000000000
+      internalID: 2989190898249471938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_rain_020_28
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 269
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1625c30a60c7280800000000000000
+      internalID: -9044346666390232580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      1_effect_rain_020_0: 988294381883756307
+      1_effect_rain_020_1: -2805789709496745653
+      1_effect_rain_020_10: 4398280398465142209
+      1_effect_rain_020_11: -7642123451182399186
+      1_effect_rain_020_12: 7765300198741815096
+      1_effect_rain_020_13: -9011008836166819803
+      1_effect_rain_020_14: -3008261381137419132
+      1_effect_rain_020_15: -2875969126948095833
+      1_effect_rain_020_16: 3932437557213188540
+      1_effect_rain_020_17: -6992105054876126018
+      1_effect_rain_020_18: 4301420927117149936
+      1_effect_rain_020_19: 5634789741436555835
+      1_effect_rain_020_2: 8602435990817649677
+      1_effect_rain_020_20: -146641885919502792
+      1_effect_rain_020_21: 3444684651781060356
+      1_effect_rain_020_22: -7435370038385576405
+      1_effect_rain_020_23: -5393969626270861151
+      1_effect_rain_020_24: 2853378341821979450
+      1_effect_rain_020_25: -3317871131326182193
+      1_effect_rain_020_26: 3528195564860848969
+      1_effect_rain_020_27: 2989190898249471938
+      1_effect_rain_020_28: -9044346666390232580
+      1_effect_rain_020_3: -4616668894488578814
+      1_effect_rain_020_4: 7875080153772731026
+      1_effect_rain_020_5: 44555474571368426
+      1_effect_rain_020_6: -4255623640321614783
+      1_effect_rain_020_7: -3026401484838792176
+      1_effect_rain_020_8: -6549211899299679549
+      1_effect_rain_020_9: 9165821858184240387
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 032909a1682d2594a9d8261a10cac5a8, type: 3}
+  m_Name: StoneTower_Lvl2
+  m_EditorClassIdentifier: 
+  isArcherTower: 0
+  isMagicTower: 0
+  isIceTower: 0
+  isStoneTower: 1
+  range: 6
+  shootInterval: 1.5
+  projectileSpeed: 8
+  projectileDuration: 2.5
+  damage: 6
+  cost: 125
+  sprite: {fileID: 8389134475083476877, guid: 0856266d977442b47849c808bfa4768e, type: 3}
+  prefab: {fileID: 2844869967531147, guid: 67178c128483ecd49bb26c8348694b03, type: 3}
+  projectilePrefab: {fileID: 8434740292085116266, guid: 3b7e76d9409f46d4d824f740621dba5d, type: 3}
+  projectilePoolSize: 10
+  archerShootInterval: 1
+  canSlowEnemies: 0
+  slowAmount: 0.5
+  slowDuration: 2
+  canChainLightning: 0
+  chainCount: 3
+  chainDamageReduction: 0.7
+  isFireballTower: 0
+  explosionRadius: 2
+  explosionDamage: 8
+  freezeRadius: 3
+  freezeSlowAmount: 0.6
+  freezeDuration: 3
+  freezeInterval: 2
+  nextLevelData: {fileID: 0}
+  upgradeCost: 50

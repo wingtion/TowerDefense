@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: a235af5c6defdde468dc656e2c17ec02
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8747427909709015893
+    second: 1_effect_freeze_004_0
+  - first:
+      213: 8716072137459218867
+    second: 1_effect_freeze_004_1
+  - first:
+      213: -1402814963127162273
+    second: 1_effect_freeze_004_2
+  - first:
+      213: -1550960673828490748
+    second: 1_effect_freeze_004_3
+  - first:
+      213: -7593385542314246965
+    second: 1_effect_freeze_004_4
+  - first:
+      213: 8108183337057205557
+    second: 1_effect_freeze_004_5
+  - first:
+      213: -5545365663282653579
+    second: 1_effect_freeze_004_6
+  - first:
+      213: 8134465504588332879
+    second: 1_effect_freeze_004_7
+  - first:
+      213: -8401316466951361158
+    second: 1_effect_freeze_004_8
+  - first:
+      213: 3025976763377861394
+    second: 1_effect_freeze_004_9
+  - first:
+      213: 1584408469817855094
+    second: 1_effect_freeze_004_10
+  - first:
+      213: 4662262227024651707
+    second: 1_effect_freeze_004_11
+  - first:
+      213: 2539627384903107891
+    second: 1_effect_freeze_004_12
+  - first:
+      213: 9046711573967062398
+    second: 1_effect_freeze_004_13
+  - first:
+      213: 5880265183587828120
+    second: 1_effect_freeze_004_14
+  - first:
+      213: 5807213804713541645
+    second: 1_effect_freeze_004_15
+  - first:
+      213: -1256823408256739372
+    second: 1_effect_freeze_004_16
+  - first:
+      213: 4618910462736471547
+    second: 1_effect_freeze_004_17
+  - first:
+      213: 4559425431531659040
+    second: 1_effect_freeze_004_18
+  - first:
+      213: -8780610779573448094
+    second: 1_effect_freeze_004_19
+  - first:
+      213: 7133754457721986526
+    second: 1_effect_freeze_004_20
+  - first:
+      213: 377527837603194583
+    second: 1_effect_freeze_004_21
+  - first:
+      213: -1630495975725089794
+    second: 1_effect_freeze_004_22
+  - first:
+      213: -4545511947948372595
+    second: 1_effect_freeze_004_23
+  - first:
+      213: 5054612080750723369
+    second: 1_effect_freeze_004_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 156
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1_effect_freeze_004_0
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 428
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4d47779a4ea9680800000000000000
+      internalID: -8747427909709015893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_freeze_004_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 414
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9bfe5ed65b5f870800000000000000
+      internalID: 8716072137459218867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_freeze_004_2
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 430
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ae3353933388ce0800000000000000
+      internalID: -1402814963127162273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_freeze_004_3
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 397
+        width: 152
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4023ad70c71e97ae0800000000000000
+      internalID: -1550960673828490748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_freeze_004_4
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 381
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bccb5cba410ee9690800000000000000
+      internalID: -7593385542314246965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_freeze_004_5
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 205
+        width: 580
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d390b39cd068070800000000000000
+      internalID: 8108183337057205557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_freeze_004_6
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 354
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57693625f47ea03b0800000000000000
+      internalID: -5545365663282653579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_freeze_004_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 301
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ff7a6374d63e070800000000000000
+      internalID: 8134465504588332879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_freeze_004_8
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 308
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d69b57f27886b80800000000000000
+      internalID: -8401316466951361158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_freeze_004_9
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 298
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21349bf75dd6ef920800000000000000
+      internalID: 3025976763377861394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_freeze_004_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 187
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c0d96db13fcf510800000000000000
+      internalID: 1584408469817855094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_freeze_004_11
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 202
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5a6833bcea3b040800000000000000
+      internalID: 4662262227024651707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_freeze_004_12
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 193
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335010ba6a19e3320800000000000000
+      internalID: 2539627384903107891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_freeze_004_13
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 190
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75c8b7be306c8d70800000000000000
+      internalID: 9046711573967062398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_freeze_004_14
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 151
+        width: 405
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89189dc8706ea9150800000000000000
+      internalID: 5880265183587828120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_freeze_004_15
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 125
+        width: 491
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0002bcff2e579050800000000000000
+      internalID: 5807213804713541645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_freeze_004_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 113
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d71675e4cdde8ee0800000000000000
+      internalID: -1256823408256739372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_freeze_004_17
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 109
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf51eb4089aa91040800000000000000
+      internalID: 4618910462736471547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_freeze_004_18
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 97
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f935ae545564f30800000000000000
+      internalID: 4559425431531659040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_freeze_004_19
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 92
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2621f848401052680800000000000000
+      internalID: -8780610779573448094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_freeze_004_20
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 88
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eddd06f02ef200360800000000000000
+      internalID: 7133754457721986526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_freeze_004_21
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 109
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6e82d619f3d3500800000000000000
+      internalID: 377527837603194583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_freeze_004_22
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 77
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efbb33f7c805f59e0800000000000000
+      internalID: -1630495975725089794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_freeze_004_23
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 64
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d4e3c67f81be0c0800000000000000
+      internalID: -4545511947948372595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_freeze_004_24
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 66
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9218b8e28e6952640800000000000000
+      internalID: 5054612080750723369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      1_effect_freeze_004_0: -8747427909709015893
+      1_effect_freeze_004_1: 8716072137459218867
+      1_effect_freeze_004_10: 1584408469817855094
+      1_effect_freeze_004_11: 4662262227024651707
+      1_effect_freeze_004_12: 2539627384903107891
+      1_effect_freeze_004_13: 9046711573967062398
+      1_effect_freeze_004_14: 5880265183587828120
+      1_effect_freeze_004_15: 5807213804713541645
+      1_effect_freeze_004_16: -1256823408256739372
+      1_effect_freeze_004_17: 4618910462736471547
+      1_effect_freeze_004_18: 4559425431531659040
+      1_effect_freeze_004_19: -8780610779573448094
+      1_effect_freeze_004_2: -1402814963127162273
+      1_effect_freeze_004_20: 7133754457721986526
+      1_effect_freeze_004_21: 377527837603194583
+      1_effect_freeze_004_22: -1630495975725089794
+      1_effect_freeze_004_23: -4545511947948372595
+      1_effect_freeze_004_24: 5054612080750723369
+      1_effect_freeze_004_3: -1550960673828490748
+      1_effect_freeze_004_4: -7593385542314246965
+      1_effect_freeze_004_5: 8108183337057205557
+      1_effect_freeze_004_6: -5545365663282653579
+      1_effect_freeze_004_7: 8134465504588332879
+      1_effect_freeze_004_8: -8401316466951361158
+      1_effect_freeze_004_9: 3025976763377861394
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

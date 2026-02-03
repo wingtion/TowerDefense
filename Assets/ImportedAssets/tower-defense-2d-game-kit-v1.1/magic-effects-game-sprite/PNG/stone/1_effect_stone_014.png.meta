@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: 671e6cd58a1c8be49b41a89ce7969932
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7963958676398787863
+    second: 1_effect_stone_014_0
+  - first:
+      213: 1903923674765504089
+    second: 1_effect_stone_014_1
+  - first:
+      213: 7167534681898061350
+    second: 1_effect_stone_014_2
+  - first:
+      213: 2527324783039207497
+    second: 1_effect_stone_014_3
+  - first:
+      213: -3320518904494832316
+    second: 1_effect_stone_014_4
+  - first:
+      213: -6798911559134570518
+    second: 1_effect_stone_014_5
+  - first:
+      213: -1527122867646833886
+    second: 1_effect_stone_014_6
+  - first:
+      213: 740260178664621624
+    second: 1_effect_stone_014_7
+  - first:
+      213: 2923622533436496822
+    second: 1_effect_stone_014_8
+  - first:
+      213: -5854899915399263961
+    second: 1_effect_stone_014_9
+  - first:
+      213: 5463576182314402503
+    second: 1_effect_stone_014_10
+  - first:
+      213: -6732339435941148716
+    second: 1_effect_stone_014_11
+  - first:
+      213: 2203609442621968421
+    second: 1_effect_stone_014_12
+  - first:
+      213: 9212278475162262519
+    second: 1_effect_stone_014_13
+  - first:
+      213: -4304668304176154691
+    second: 1_effect_stone_014_14
+  - first:
+      213: -4557863617962008872
+    second: 1_effect_stone_014_15
+  - first:
+      213: 7456881031046679435
+    second: 1_effect_stone_014_16
+  - first:
+      213: -5422931273127901944
+    second: 1_effect_stone_014_17
+  - first:
+      213: 2058115799173723042
+    second: 1_effect_stone_014_18
+  - first:
+      213: -4380052704393225260
+    second: 1_effect_stone_014_19
+  - first:
+      213: 2553708261545890319
+    second: 1_effect_stone_014_20
+  - first:
+      213: 5026976920909412653
+    second: 1_effect_stone_014_21
+  - first:
+      213: 7878350317934474258
+    second: 1_effect_stone_014_22
+  - first:
+      213: -3499544880753389427
+    second: 1_effect_stone_014_23
+  - first:
+      213: 3787637038543503700
+    second: 1_effect_stone_014_24
+  - first:
+      213: -3866093367667765241
+    second: 1_effect_stone_014_25
+  - first:
+      213: 5990384578681555503
+    second: 1_effect_stone_014_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1_effect_stone_014_0
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 439
+        width: 165
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e23c5757c55a7190800000000000000
+      internalID: -7963958676398787863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_stone_014_1
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 575
+        width: 67
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95eaad9ae781c6a10800000000000000
+      internalID: 1903923674765504089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_stone_014_2
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 551
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e83d561d2387360800000000000000
+      internalID: 7167534681898061350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_stone_014_3
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 503
+        width: 61
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948d715ff7cd21320800000000000000
+      internalID: 2527324783039207497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_stone_014_4
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 462
+        width: 71
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445cd9336a52be1d0800000000000000
+      internalID: -3320518904494832316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_stone_014_5
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 440
+        width: 115
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae79c7a85f965a1a0800000000000000
+      internalID: -6798911559134570518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_stone_014_6
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 331
+        width: 76
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22bd889c7d19ecae0800000000000000
+      internalID: -1527122867646833886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_stone_014_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 272
+        width: 117
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8360caed5bee54a00800000000000000
+      internalID: 740260178664621624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_stone_014_8
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 359
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb5fc2443bc29820800000000000000
+      internalID: 2923622533436496822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_stone_014_9
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 372
+        width: 62
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729892b2c873fbea0800000000000000
+      internalID: -5854899915399263961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_stone_014_10
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 355
+        width: 126
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2822e279582db40800000000000000
+      internalID: 5463576182314402503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_stone_014_11
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 367
+        width: 70
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7cf55d3fce192a0800000000000000
+      internalID: -6732339435941148716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_stone_014_12
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 290
+        width: 47
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520dd23ec1bc49e10800000000000000
+      internalID: 2203609442621968421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_stone_014_13
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 244
+        width: 84
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb1604e67698df70800000000000000
+      internalID: 9212278475162262519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_stone_014_14
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 255
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db772b50cfeb244c0800000000000000
+      internalID: -4304668304176154691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_stone_014_15
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 202
+        width: 74
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de92b420373fb0c0800000000000000
+      internalID: -4557863617962008872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_stone_014_16
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 167
+        width: 118
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8bc2eb1ac92c7760800000000000000
+      internalID: 7456881031046679435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_stone_014_17
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 114
+        width: 52
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805cadf2db0edb4b0800000000000000
+      internalID: -5422931273127901944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_stone_014_18
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 58
+        width: 126
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a37e5c3a65ef8c10800000000000000
+      internalID: 2058115799173723042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_stone_014_19
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 192
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db1729954de633c0800000000000000
+      internalID: -4380052704393225260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_stone_014_20
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 188
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f025c6d3228907320800000000000000
+      internalID: 2553708261545890319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_stone_014_21
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 179
+        width: 57
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2974e020e863c540800000000000000
+      internalID: 5026976920909412653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_stone_014_22
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 115
+        width: 41
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214f1947fd5855d60800000000000000
+      internalID: 7878350317934474258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_stone_014_23
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 43
+        width: 132
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80582be87e1f6fc0800000000000000
+      internalID: -3499544880753389427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_stone_014_24
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 56
+        width: 50
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4518f7c91d3609430800000000000000
+      internalID: 3787637038543503700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_stone_014_25
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 45
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7005ba7c090e85ac0800000000000000
+      internalID: -3866093367667765241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_effect_stone_014_26
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 13
+        width: 92
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2aca40390f122350800000000000000
+      internalID: 5990384578681555503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      1_effect_stone_014_0: -7963958676398787863
+      1_effect_stone_014_1: 1903923674765504089
+      1_effect_stone_014_10: 5463576182314402503
+      1_effect_stone_014_11: -6732339435941148716
+      1_effect_stone_014_12: 2203609442621968421
+      1_effect_stone_014_13: 9212278475162262519
+      1_effect_stone_014_14: -4304668304176154691
+      1_effect_stone_014_15: -4557863617962008872
+      1_effect_stone_014_16: 7456881031046679435
+      1_effect_stone_014_17: -5422931273127901944
+      1_effect_stone_014_18: 2058115799173723042
+      1_effect_stone_014_19: -4380052704393225260
+      1_effect_stone_014_2: 7167534681898061350
+      1_effect_stone_014_20: 2553708261545890319
+      1_effect_stone_014_21: 5026976920909412653
+      1_effect_stone_014_22: 7878350317934474258
+      1_effect_stone_014_23: -3499544880753389427
+      1_effect_stone_014_24: 3787637038543503700
+      1_effect_stone_014_25: -3866093367667765241
+      1_effect_stone_014_26: 5990384578681555503
+      1_effect_stone_014_3: 2527324783039207497
+      1_effect_stone_014_4: -3320518904494832316
+      1_effect_stone_014_5: -6798911559134570518
+      1_effect_stone_014_6: -1527122867646833886
+      1_effect_stone_014_7: 740260178664621624
+      1_effect_stone_014_8: 2923622533436496822
+      1_effect_stone_014_9: -5854899915399263961
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

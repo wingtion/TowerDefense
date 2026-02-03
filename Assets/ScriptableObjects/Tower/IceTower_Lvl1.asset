@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 032909a1682d2594a9d8261a10cac5a8, type: 3}
+  m_Name: IceTower_Lvl1
+  m_EditorClassIdentifier: 
+  range: 5
+  shootInterval: 1.5
+  projectileSpeed: 8
+  projectileDuration: 2
+  damage: 2
+  cost: 100
+  sprite: {fileID: 3465286685962602723, guid: 3474efb133b5dbb4ba9981c7697143fb, type: 3}
+  prefab: {fileID: 5196457342480460828, guid: c9231b572136ebd48b470d1df214773c, type: 3}
+  projectilePrefab: {fileID: 0}
+  projectilePoolSize: 1
+  archerShootInterval: 1
+  canSlowEnemies: 0
+  slowAmount: 0.5
+  slowDuration: 2
+  canChainLightning: 0
+  chainCount: 3
+  chainDamageReduction: 0.7
+  isFireballTower: 0
+  explosionRadius: 2
+  explosionDamage: 8
+  isIceTower: 1
+  freezeRadius: 2
+  freezeSlowAmount: 0.45
+  freezeDuration: 3
+  freezeInterval: 2
+  nextLevelData: {fileID: 11400000, guid: cd12b065a035a384bb2f7d0a72c47b03, type: 2}
+  upgradeCost: 80
