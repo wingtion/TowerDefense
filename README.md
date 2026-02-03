@@ -1,6 +1,6 @@
 🏹 Fantasy Tower Defense Game
 
-🎮 About the Game
+🎮 About the Game:
 This is a fully featured Tower Defense game developed with Unity. The game focuses on strategic tower placement, defending against waves of enemies, and resource management. With a fantasy theme, the game includes various tower types, enemies, and special abilities.
 
 ✨ Features:
