@@ -1,12 +1,14 @@
 🏹 Fantasy Tower Defense Game
 --------------
+Playable Link: https://play.unity.com/en/games/80a9ec64-768f-4b4d-8ce8-80aece43debc/tower-defenders
+--------------
 🎮 About the Game
 --------------
 This is a fully featured Tower Defense game developed with Unity. The game focuses on strategic tower placement, defending against waves of enemies, and resource management. With a fantasy theme, the game includes various tower types, enemies, and special abilities.
 
 ✨ Features
 --------------
-🏗️ Tower System:
+🏗️ Tower System
 --------------
 4 Different Tower Types: Archer, Mage, Ice, and Stone towers
 
@@ -16,7 +18,7 @@ Special Abilities: Each tower has unique abilities
 
 Sell Option: Sell towers to recover part of your investment
 
-👹 Enemy Variety:
+👹 Enemy Variety
 --------------
 8 Different Enemy Types: Orcs, Dragons, Yetis, Ghosts, and more
 
@@ -24,7 +26,7 @@ Health Scaling: Enemies become stronger as waves progress
 
 Special Abilities: Some enemies possess unique skills
 
-🎯 Game Mechanics:
+🎯 Game Mechanics
 --------------
 Wave System: Increasingly challenging enemy waves
 
@@ -34,7 +36,7 @@ Level System: Different maps and difficulty levels
 
 Speed Control: Adjust game speed with 3 different levels
 
-🎨 Visuals & Audio:
+🎨 Visuals & Audio
 --------------
 Animations: Tower and enemy animations
 
@@ -44,13 +46,13 @@ Sound Effects: Tower sounds, enemy sounds, and music
 
 UI Design: User-friendly interface
 
-📱 Platform Support:
+📱 Platform Support
 --------------
 Multi-Input Support: Mouse and touchscreen support
 
 Screen Ratio Compatibility: Adapts to different screen sizes
 
-🛠️ Technical Details:
+🛠️ Technical Details
 --------------
 Code Structure
 
